@@ -1,0 +1,10 @@
+import {createRequire} from 'node:module';
+const require=createRequire(import.meta.url);
+const sharp=require('C:/Users/hp/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+import {mkdir,copyFile} from 'node:fs/promises';
+await mkdir('public/assets',{recursive:true});
+await sharp('C:/Users/hp/AppData/Local/Temp/codex-clipboard-984f78da-ffdb-468d-96f1-586c11fcab0b.png').extract({left:325,top:325,width:900,height:800}).resize(450).png().toFile('public/assets/logo.png');
+await sharp('C:/Users/hp/AppData/Local/Temp/codex-clipboard-94b2b814-c49b-4039-a341-2f384edd1743.png').extract({left:385,top:295,width:855,height:1010}).resize(780).webp({quality:93}).toFile('public/assets/product.webp');
+await sharp('.qa/brochure-4.png').extract({left:7,top:13,width:976,height:387}).resize(1600).webp({quality:88}).toFile('public/assets/cattle.webp');
+await sharp('.qa/brochure-4.png').extract({left:107,top:724,width:354,height:259}).resize(760).webp({quality:88}).toFile('public/assets/botanicals.webp');
+await copyFile('C:/Users/hp/Downloads/Dudh Vardhini Brochure Marathi.pdf.pdf.pdf','public/assets/dudhvardhini-brochure-marathi.pdf');
