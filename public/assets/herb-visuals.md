@@ -48,5 +48,5 @@ Harad and ajwain together: two dried brown oval haritaki (Terminalia chebula) fr
 
 ## Contact integration
 
-The website's support and WhatsApp number is 9403454653. Call links use tel:+919403454653; WhatsApp links open a localized prefilled message at https://wa.me/919403454653. No message is sent automatically.
+The website's support and WhatsApp number is 9063639070. Call links use tel:+919063639070; WhatsApp links open a localized prefilled message at https://wa.me/919063639070. No message is sent automatically.
 

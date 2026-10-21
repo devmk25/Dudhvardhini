@@ -40,7 +40,7 @@ briefs are in `public/assets/visual-assets-notes.md`.
 
 ## Before public launch
 
-Phone and WhatsApp support are configured for **9403454653** (+91). The site includes localized call and WhatsApp links, a dedicated support section, a desktop contact shortcut and a mobile contact bar. WhatsApp links open a prefilled message; they do not send automatically. The ingredient gallery uses six individual transparent herb illustrations; files and generation briefs are documented in `public/assets/herb-visuals.md`.
+Phone and WhatsApp support are configured for **9063639070** (+91). The site includes localized call and WhatsApp links, a dedicated support section, a desktop contact shortcut and a mobile contact bar. WhatsApp links open a prefilled message; they do not send automatically. The ingredient gallery uses six individual transparent herb illustrations; files and generation briefs are documented in `public/assets/herb-visuals.md`.
 
 Remaining launch information: email, address, official domain, manufacturer/legal business name, full composition, daily dosage, storage instructions and the current product label. The original downloadable brochure is preserved. Product claims are written conservatively; no guaranteed percentage gains or invented customer testimonials are included.
 
